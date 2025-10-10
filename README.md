@@ -17,7 +17,7 @@ We’re building the project modularly so multiple people can work on separate s
 ## 🛠️ Tech Stack
 
 - **Engine:** [Godot 4.5](https://godotengine.org/)  
-- **Language:** GDScript *(or C# if applicable — edit this line)*  
+- **Language:** GDScript 
 - **Version Control:** Git + GitHub  
 - **Project Type:** 2D 
 
